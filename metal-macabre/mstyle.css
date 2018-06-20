@@ -5,3 +5,10 @@
              font-weight: 200;
     font-style: normal;
 } 
+@font-face {
+    font-family: 'toyota display';
+    src: url('https://cdn.rawgit.com/caffeinatedan/static/96e9ceb2/metal-macabre/text-webfont.woff');
+    format('woff'),
+             font-weight: inherit;
+    font-style: oblique;
+} 
