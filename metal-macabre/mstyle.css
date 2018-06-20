@@ -1,7 +1,7 @@
 @font-face {
-    font-family: 'toyotadisplay';
-    src: url('https://cdn.rawgit.com/caffeinatedan/static/blob/master/metal-macabre/display_rg-webfont.woff');
-    format('woff'),
+    font-family: 'metal macabre';
+    src: url('https://cdn.rawgit.com/caffeinatedan/static/blob/master/metal-macabre/metalmacabre.tff');
+    format('tff'),
              font-weight: 100;
     font-style: normal;
 } 
