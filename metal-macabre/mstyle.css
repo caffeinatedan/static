@@ -2,7 +2,7 @@
     font-family: 'toyota display';
     src: url('https://cdn.rawgit.com/caffeinatedan/static/0ac2fb4e/metal-macabre/display_rg-webfont.woff');
     format('woff'),
-             font-weight: inherit;
+             font-weight: 200;
     font-style: normal;
 } 
 @font-face {
