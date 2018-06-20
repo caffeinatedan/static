@@ -1,12 +1,12 @@
 @font-face {
-    font-family: 'display';
+    font-family: 'mstyle';
     src: url('https://cdn.rawgit.com/caffeinatedan/static/0ac2fb4e/metal-macabre/display_rg-webfont.woff');
     format('woff'),
-             font-weight: 200;
+             font-weight: inherit;
     font-style: normal;
 } 
 @font-face {
-    font-family: 'display';
+    font-family: 'mstyle';
     src: url('https://cdn.rawgit.com/caffeinatedan/static/96e9ceb2/metal-macabre/text-webfont.woff');
     format('woff'),
              font-weight: inherit;
